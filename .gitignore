@@ -1,4 +1,4 @@
 linear_regression/data/*
 pairwise_comparison.png
-linear_regression/params.npz
-linear_regression/params.npz
+*.npz
+*.pyc
