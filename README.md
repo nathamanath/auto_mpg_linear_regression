@@ -4,7 +4,7 @@ Implementing linear regression and gradient descent on auto_mpg.
 
 I got the data from here: https://archive.ics.uci.edu/ml/datasets/Auto+MPG
 
-I wrote about it here: https://nathansplace.uk/articles/automatically-sign-in-to-bt-wifi-hotspots
+I wrote about it here: https://nathansplace.uk/articles/linear-regression-for-mpg
 
 ## Usage
 
